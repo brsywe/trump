@@ -22,7 +22,8 @@ Plugin.create(:trump) do
       "I am your voice. ",
       "God bless You And Good Night.　I love you. ",
       "SEE YOU IN COURT",
-      "I have never seen a thin person drinking Diet Coke."
+      "I have never seen a thin person drinking Diet Coke.",
+      "安倍総理ガンバレ"
      
     ]
     opt.messages.each do |message|
