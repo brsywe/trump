@@ -21,7 +21,7 @@ Plugin.create(:trump) do
       "Can I be honest with you? ",
       "I am your voice. ",
       "God bless You And Good Night.　I love you. ",
-      "SEE YOU IN COURT"
+      "SEE YOU IN COURT",
       "I have never seen a thin person drinking Diet Coke."
      
     ]
